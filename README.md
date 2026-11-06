@@ -47,8 +47,11 @@
 ### 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmerTuregun&show_icons=true&hide_border=true&theme=transparent&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerTuregun&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+</p>
+<p align="left">
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 ---
