@@ -59,6 +59,8 @@
 ### ✍️ Latest posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Compose Nedir? Tek Komutla Tüm Servislerini Ayağa Kaldır!](https://medium.com/@trkuraf/docker-compose-nedir-tek-komutla-t%C3%BCm-servislerini-aya%C4%9Fa-kald%C4%B1r-3958377f133b?source=rss-4c1b6fe9097e------2)
+- [Docker: Yazılım Geliştirmede Neden Bu Kadar Önemli?](https://medium.com/@trkuraf/docker-yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-neden-bu-kadar-%C3%B6nemli-18b2e0b5a886?source=rss-4c1b6fe9097e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
